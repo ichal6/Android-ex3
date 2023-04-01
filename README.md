@@ -1,5 +1,5 @@
 # Android exercises
-## Exercises 2
+## Exercises 3
 ### Task in polish
 1. Zaimplementuj usługę, która daje możliwość komunikacji ze sobą (Bound Service)
 - usługa zostaje uruchomiona przy tworzeniu aktywności
